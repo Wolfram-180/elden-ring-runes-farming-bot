@@ -18,7 +18,12 @@ than
 
 - Alt-Tab to Elden ring
 
-Enjoy.
+Enjoy:
+- bot runs to mobs
+- make ultra-bagaboom
+- got some souls
+- teleport back to same camp via map
+- repeat
 
 To stop script: Alt+Tab to SciTe widow, Tools - Stop executing.
 
